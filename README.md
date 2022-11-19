@@ -1,4 +1,4 @@
-# HACKER_RANK_SQL
+# HackerRank_SQL
 
 This repository is intended to serve as an educational resource for individuals who are learning SQL through HackerRank practice problems.
 
