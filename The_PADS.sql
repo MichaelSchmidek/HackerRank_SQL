@@ -8,6 +8,9 @@ There are a total of [occupation_count] [occupation]s.
 where [occupation_count] is the number of occurrences of an occupation in OCCUPATIONS and [occupation] is the lowercase occupation name. If more than one Occupation has the same [occupation_count], they should be ordered alphabetically.
 
 Note: There will be at least two entries in the table for each type of occupation.
+
+Link to problem:
+https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
 */
 
 SELECT CONCAT(NAME,"(",LEFT(OCCUPATION,1),")")
