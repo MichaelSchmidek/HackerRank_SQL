@@ -7,6 +7,9 @@ Finally, if the grade is lower than 8, use "NULL" as their name and list them by
 If there is more than one student with the same grade (1-7) assigned to them, order those particular students by their marks in ascending order.
 
 Write a query to help Eve.
+
+Link to Problem:
+https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true
 */
 
 SELECT 
